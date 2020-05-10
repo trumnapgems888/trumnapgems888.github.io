@@ -1,0 +1,33 @@
+Package: com.trumnapgems888.vinapgame
+Name: Ví Nạp Game
+Version: 0.0.1-87+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vinapgame.deb
+SHA1:ad88584093e883be30a4858463da73ab9868c06a
+SHA256:fd45c6c57d94dfdac0a40f68c2ae7e65b6c56c9342c4e53c1659f0f1f2979070
+Size:123544
+MD5sum:e976ffd0f7598a409c756967b31bf544
+Description: Trùm Nạp GEMS
+Author: Trùm Nạp GEMS <hiepnapgame@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm Nạp GEMS <hiepnapgame@gmail.com>
+Author: Trùm Nạp GEMS
+Installed-Size: 448
+
+Package: com.trumnapgems888.vixagame
+Name: Ví Nạp Game
+Version: 0.0.1-91+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixagame.deb
+SHA1:6060b8f8a775ee5ce8593c0f3dfad31479781bd7
+SHA256:1e61f048ac615c400065d6beec50e3813cf96ff0f6974e60ec097596177fcc30
+Size:109940
+MD5sum:3cd4574c7ac328d1566163d126bb96c1
+Description: Trùm Nạp GEMS
+Author: Trùm Nạp GEMS <hiepnapgame@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm Nạp GEMS <hiepnapgame@gmail.com>
+Author: Trùm Nạp GEMS
+Installed-Size: 416
