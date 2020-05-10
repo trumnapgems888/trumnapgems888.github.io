@@ -3,10 +3,10 @@ Name: Ví Nạp Game
 Version: 0.0.1-87+debug
 Architecture: iphoneos-arm
 Filename: ./debs/vinapgame.deb
-SHA1:ad88584093e883be30a4858463da73ab9868c06a
-SHA256:fd45c6c57d94dfdac0a40f68c2ae7e65b6c56c9342c4e53c1659f0f1f2979070
+SHA1:07f1ddd3614c76580c2030d0cb10a7cb50238081
+SHA256:39a4d08e7850cc0d511c515d627c7425b0aa5afaee10e76188974ba28efc4359
 Size:123544
-MD5sum:e976ffd0f7598a409c756967b31bf544
+MD5sum:dd8b692edf2c0ac10143b11725bb7bb2
 Description: Trùm Nạp GEMS
 Author: Trùm Nạp GEMS <hiepnapgame@gmail.com>
 Section: Tweaks
@@ -20,10 +20,10 @@ Name: Ví Nạp Game
 Version: 0.0.1-91+debug
 Architecture: iphoneos-arm
 Filename: ./debs/vixagame.deb
-SHA1:6060b8f8a775ee5ce8593c0f3dfad31479781bd7
-SHA256:1e61f048ac615c400065d6beec50e3813cf96ff0f6974e60ec097596177fcc30
+SHA1:f34746eb3936d949bf615fadb4da1736134ca19a
+SHA256:f24c17c383a92a4a9c47520e4fadbdd47bbddc81743768e16e30f1c21604e229
 Size:109940
-MD5sum:3cd4574c7ac328d1566163d126bb96c1
+MD5sum:961823d6f3cf23e39145b1798e3d3d4a
 Description: Trùm Nạp GEMS
 Author: Trùm Nạp GEMS <hiepnapgame@gmail.com>
 Section: Tweaks
