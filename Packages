@@ -16,7 +16,7 @@ Author: Trùm Nạp GEMS
 Installed-Size: 448
 
 Package: com.trumnapgems888.vixagame
-Name: Ví Nạp Game
+Name: Ví Xả Game
 Version: 0.0.1-91+debug
 Architecture: iphoneos-arm
 Filename: ./debs/vixagame.deb
